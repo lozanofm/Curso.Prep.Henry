@@ -1,0 +1,16 @@
+CONCEPTOS:
+Variables
+Son campos donde se ingresan datos de caracter num‚ricos, alfab‚ticos, etc que sirven para ser utilizados cuando necesitamos llamar a una funcion determinada. Dependemos tambien de las personas que ingresan estos datos para que las funciones se cumplan o no...
+
+Strings
+Es un tipo de variable que indica que el dato que se ingrese debe ser exclusivamente "texto" y va encerrado entre comillas en las funciones
+
+Funciones (argumentos, return)
+Argumentos: son las variables o campos de datos que se refiere o define a la funcion del nombre de una variable. Es el valor que toma la funcion.
+Return es una declaraci¢n que tiene como funcion devolver un resultado luego de una acci¢n
+
+Declaraciones if
+es una condicion, donde se lleva a cabo una acci¢n u otra. Si una condicion se cumple puede tomar una accion, sino se cumple pasa a la siguiente accion....
+
+Valores booleanos (true, false)
+Estos valores son los que le dicen a la condicion o declaraci¢n "if" si la acci¢n es verdadera o falsa. Si es true har  algo, si es false har  otra cosa.
