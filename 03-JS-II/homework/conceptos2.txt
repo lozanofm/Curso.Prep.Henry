@@ -1,0 +1,13 @@
+CONCEPTOS 2
+for
+Este es un bucle o un circuito que se reproducirá tantas veces hasta que la condición que planteamos sea verdadera o falsa. Depende de una variable que se irá incrementando hasta que esa condición se cumpla o no.
+
+&&
+Es una especie de condición, si pedimos que suceda una cosa "y" tambien otra, depende de que ambas se cumplan para poder avanzar con el ejercicio. 
+
+
+||
+A diferencia del &&, este es un operador que nos permite que se cumpla una condicion u otra para poder avanzar con un ejercicio
+
+!
+Este operador o sintaxis devuelve el valor contrario del que realmente es, es decir si la letra A sabemos que es la letra A, este operador nos niega que lo sea...
