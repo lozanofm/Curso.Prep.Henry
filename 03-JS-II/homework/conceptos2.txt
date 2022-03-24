@@ -1,9 +1,9 @@
 CONCEPTOS 2
 for
-Este es un bucle o un circuito que se reproducirá tantas veces hasta que la condición que planteamos sea verdadera o falsa. Depende de una variable que se irá incrementando hasta que esa condición se cumpla o no.
+Este es un bucle o un circuito que se reproducirï¿½ tantas veces hasta que la condiciï¿½n que planteamos sea verdadera o falsa. Depende de una variable que se irï¿½ incrementando hasta que esa condiciï¿½n se cumpla o no.
 
 &&
-Es una especie de condición, si pedimos que suceda una cosa "y" tambien otra, depende de que ambas se cumplan para poder avanzar con el ejercicio. 
+Es una especie de condiciï¿½n, si pedimos que suceda una cosa "y" tambien otra, depende de que ambas se cumplan para poder avanzar con el ejercicio. 
 
 
 ||
