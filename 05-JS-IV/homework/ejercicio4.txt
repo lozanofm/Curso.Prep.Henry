@@ -1,0 +1,18 @@
+Objetos
+Son como cajas donde se archivan datos sobre un tema, por ejempplo, guardo toda la información personal de una persona.
+
+Propiedades
+Es el tipo de informacion que guardo en los objetos. Por ejemplo, si una persona es deportista guardo las actividades que suele practicar en su vida
+
+Métodos
+Son las funciones que estan adentro de cada objeto
+
+Bucle for…in
+nos va mostrando el recorrido de cada propiedad dentro del objeto
+
+Notación de puntos vs notación de corchetes
+Notación de puntos: sirve para llamar una propiedad que esta dentro de objeto
+Notación de corchetes: sirve para llamar una propiedad por dentro o fuera del objeto como tambien de alguna variable.
+
+
+
